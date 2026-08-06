@@ -53,5 +53,4 @@ Which companies are true "top performers" — strong on both financial results a
 
 8. Screenshots
   Executive Summary Page 1
- https://github.com/manashnayak/Global-ESG-Financial-Performance-Dashboard/blob/main/Snapshot%20of%20Dashboard
-
+https://github.com/manashnayak/Global-ESG-Financial-Performance-Dashboard/blob/main/Snapshot%20of%20Dashboard
