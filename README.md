@@ -52,5 +52,6 @@ How sustainable is a company relative to its size — using intensity metrics (c
 Which companies are true "top performers" — strong on both financial results and ESG, not just one or the other?
 
 8. Screenshots
-   
+  Executive Summary Page 1
+ https://github.com/manashnayak/Global-ESG-Financial-Performance-Dashboard/blob/main/Snapshot%20of%20Dashboard
 
